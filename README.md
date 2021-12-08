@@ -15,6 +15,6 @@
 ## Stats
 <div>
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=Javierob02&theme=midnight-purple&show_icons=true"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javierob02&theme=midnight-purple&show_icons=true"7>
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javierob02&theme=dark&show_icons=true"7>
 	<!--<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra&theme=dark&show_icons=true"/>-->
 </div>
