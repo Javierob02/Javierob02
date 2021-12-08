@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Javierob02
-- 👀 I’m interested in software engineering and cyber security
-- 🌱 I’m currently learning python, java, r and cyber security
-- 📫 How to reach me on email ignacioarmas659@gmail.com
+- 👋 Hi, I’m @Javierob02.
+- 👀 I’m interested in software engineering and cyber security.
 
-<!---
-Javierob02/Javierob02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
+</br>
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
